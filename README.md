@@ -1,4 +1,4 @@
 # cc
-Flutter/Dart 1 year exp,
+Flutter/Dart,
 React,
 Nodejs
